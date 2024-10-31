@@ -12,7 +12,7 @@ The main advantages of this promising approach is that a single formulation shou
 
 nonlinear한 경우엔 다음이 성립하지 않음. → 유한 time 증분으로 algorithmic stiff 사용
 
-![Untitled 66.png|Untitled 66.png](/img/user/Minjun_Kwak/Notion%20images/Untitled%2066.png)
+![Untitled 66.png|Untitled 66.png](/src/site/img/user/Minjun_Kwak/Notion%20images/Untitled%2066.png)
 
 Unfortunately, as observed in various simulations, such an approach gives too stiff responses and can even violate a rigorous upper bound.
 
