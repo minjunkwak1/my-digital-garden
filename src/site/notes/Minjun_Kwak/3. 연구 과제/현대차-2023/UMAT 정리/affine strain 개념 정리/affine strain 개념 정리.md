@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/minjun-kwak/3/2023/umat/affine-strain/affine-strain/"}
+{"dg-publish":true,"permalink":"/Minjun_Kwak/3. 연구 과제/현대차-2023/UMAT 정리/affine strain 개념 정리/affine strain 개념 정리/"}
 ---
 
 균질화에서 너무 stiff해지는 것을 방지하고자 도입한 개념
