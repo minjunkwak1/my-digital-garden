@@ -9,7 +9,7 @@
 *   SFRP의 injection molding simulation은 local microstructure를 numerical cost 문제로 orientation tensor만을 제공함
 *   따라서 ODF를 재구축하는 것이 필수적이며, 대표적으로 maximum entropy를 쓸 수 있음
 *   그러나 ME method는 iterative minimization problem을 요구하며, cost가 커서 대규모 시뮬레이션에 부적합.
-*   이에 인공신경망을 이용한 보조를 제안
+*   이에 인공신경망을 이용한 보조를 제안 test
 ### Research scheme
 1.  10000개의 임의방향 텐서를 생성
 2.  ME로 ODF 재구축
